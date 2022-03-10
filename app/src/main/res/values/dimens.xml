@@ -1,0 +1,101 @@
+<resources>
+
+
+    <dimen name="time_line_width">20dp</dimen>
+
+    <dimen name="margin_content">20dp</dimen>
+    <dimen name="margin_big">30dp</dimen>
+    <dimen name="margin_mid">10dp</dimen>
+    <dimen name="margin_mid_half">5dp</dimen>
+    <dimen name="margin_micro">3dp</dimen>
+
+    <dimen name="time_stamp_height">20dp</dimen>
+    <dimen name="image_menu_width">60dp</dimen>
+
+    <dimen name="header_rect">50dp</dimen>
+    <dimen name="header_rect_mid">60dp</dimen>
+    <dimen name="header_rect_big">70dp</dimen>
+
+    <!--common-->
+
+
+    <dimen name="tab_button_height">45dp</dimen>
+    <dimen name="header_height">50dp</dimen>
+    <dimen name="item_height_mid">45dp</dimen>
+    <dimen name="item_height_mid_">-45dp</dimen>
+    <dimen name="item_height_comments">100dp</dimen>
+
+
+    <dimen name="input_deactive_height">140dp</dimen>
+    <dimen name="input_item_height">40dp</dimen>
+    <dimen name="input_item_height_b1">50dp</dimen>
+    <dimen name="input_item_height_p">70dp</dimen>
+    <dimen name="input_content_height">120dp</dimen>
+
+    <dimen name="input_item_height_small">40dp</dimen>
+    <dimen name="input_item_height_small_2">80dp</dimen>
+    <dimen name="input_item_height_small_3">120dp</dimen>
+    <dimen name="input_item_height_small_4">160dp</dimen>
+
+
+    <dimen name="text_size_title">26sp</dimen>
+    <dimen name="text_size_title_second">18sp</dimen>
+    <dimen name="text_size_content">16sp</dimen>
+    <dimen name="text_size_more">15sp</dimen>
+    <dimen name="text_size_header_detail">15sp</dimen>
+    <dimen name="text_size_content_small_1">14sp</dimen>
+    <dimen name="text_size_content_small_2">10sp</dimen>
+    <dimen name="text_size_content_small_3">8sp</dimen>
+
+
+    <dimen name="info_window_height">100dp</dimen>
+    <dimen name="info_window_width">300dp</dimen>
+
+
+    <dimen name="detail_header_height">180dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="indicator_size">8dp</dimen>
+    <dimen name="indicator_margin">-4dp</dimen>
+
+    <dimen name="top_button_width">50dp</dimen>
+
+
+
+    <dimen name="padding_tab_bottom">5dp</dimen>
+    <dimen name="tab_height">70dp</dimen>
+    <dimen name="margin_content_s">15dp</dimen>
+    <dimen name="margin_large">60dp</dimen>
+    <dimen name="margin_large_l">100dp</dimen>
+    <dimen name="margin_large_ll">160dp</dimen>
+
+    <dimen name="text_size_title_large">26sp</dimen>
+    <dimen name="text_size_title_second_mid">22sp</dimen>
+    <dimen name="text_size_title_mid">20sp</dimen>
+    <dimen name="text_size_title_mid2">18sp</dimen>
+    <dimen name="text_size_title_third">14sp</dimen>
+
+    <dimen name="text_size_content_small_1_0">11sp</dimen>
+    <dimen name="text_size_content_small_1_1">9sp</dimen>
+    <dimen name="text_size_content_small_2_1">7sp</dimen>
+
+
+
+    <dimen name="area_height_big">400dp</dimen>
+    <dimen name="input_item_height_b2">60dp</dimen>
+
+
+    <dimen name="input_item_height_small_s">35dp</dimen>
+
+    <dimen name="CustomBarHeight">50dp</dimen>
+    <dimen name="discover_tab_height">40dp</dimen>
+
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="card_height_real">160dp</dimen>
+
+</resources>
